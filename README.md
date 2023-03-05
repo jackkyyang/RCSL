@@ -1,2 +1,2 @@
-# g_core
-A micro computer system with a simple Core(SOC) and OS.
+# RCSL
+A Reduced Computer System for Learning which includes simple core(SOC) and OS.
